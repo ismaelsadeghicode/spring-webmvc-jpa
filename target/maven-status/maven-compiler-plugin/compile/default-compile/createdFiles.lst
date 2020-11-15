@@ -1,5 +1,4 @@
 com\fwutech\config\JpaConfig.class
-com\fwutech\contropller\IndexController.class
 com\fwutech\model\Customer.class
 com\fwutech\repository\CustomerRepository.class
 com\fwutech\service\CustomerService.class
